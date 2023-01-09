@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="4K频道",CCTV-4K
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
 #EXTINF:-1 group-title="4K频道",CCTV奥林匹克4K
 http://192.168.50.1:8888/udp/239.93.46.54:5140
 #EXTINF:-1 group-title="4K频道",爱上4K
@@ -71,8 +69,6 @@ http://192.168.50.1:8888/udp/239.93.46.19:5140
 http://192.168.50.1:8888/udp/239.93.46.20:5140
 
 
-#EXTINF:-1 group-title="央视台",CCTV-4K
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
 #EXTINF:-1 group-title="央视台",CCTV-1杜比世界
 http://192.168.50.1:8888/udp/239.93.6.69:5140
 #EXTINF:-1 group-title="央视台",CCTV-1
