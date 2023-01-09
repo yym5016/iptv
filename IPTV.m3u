@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="4K频道",CCTV奥林匹克4K
+#EXTINF:-1 group-title="4K频道",CCTV奥林匹克4K源1
 http://192.168.50.1:8888/udp/239.93.46.54:5140
+#EXTINF:-1 group-title="4K频道",CCTV奥林匹克4K源2
+http://192.168.50.1:8888/udp/239.93.46.63:5140
 #EXTINF:-1 group-title="4K频道",爱上4K
 http://192.168.50.1:8888/udp/239.93.6.97:5140
 #EXTINF:-1 group-title="4K频道",Best 4K
@@ -17,6 +19,9 @@ http://192.168.50.1:8888/udp/239.93.7.188:5140
 http://192.168.50.1:8888/udp/239.93.7.156:5140
 #EXTINF:-1 group-title="4K频道",4K乐享超清
 http://192.168.50.1:8888/udp/239.93.6.43:5140
+#EXTINF:-1 group-title="4K频道",4K乐享超清
+http://192.168.50.1:8888/udp/239.93.6.43:5140
+
 
 #EXTINF:-1 group-title="少儿频道",中央少儿
 http://192.168.50.1:8888/udp/239.93.7.29:6000
