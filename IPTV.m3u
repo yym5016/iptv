@@ -1,72 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV奥林匹克4K
-http://192.168.50.1:8888/udp/239.93.46.54:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",爱上4K
-http://192.168.50.1:8888/udp/239.93.6.97:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",Best 4K
-http://192.168.50.1:8888/udp/239.93.6.16:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",绚影4K
-http://192.168.50.1:8888/udp/239.93.46.33:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",亲子趣学4K
-http://192.168.50.1:8888/udp/239.93.7.191:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",津津悦读4K
-http://192.168.50.1:8888/udp/239.93.7.197:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",中录动漫4K
-http://192.168.50.1:8888/udp/239.93.7.188:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",4K超高清电影
-http://192.168.50.1:8888/udp/239.93.7.156:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",4K乐享超清
-http://192.168.50.1:8888/udp/239.93.6.43:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",4K乐享超清
-http://192.168.50.1:8888/udp/239.93.6.43:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",中央少儿
-http://192.168.50.1:8888/udp/239.93.7.29:6000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",熊猫少儿
-http://192.168.50.1:8888/udp/239.93.7.189:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",熊猫卡通
-http://192.168.50.1:8888/udp/239.93.6.172:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",少儿天地
-http://192.168.50.1:8888/udp/239.93.46.34:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",爱幼教
-http://192.168.50.1:8888/udp/239.93.46.17:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",爱玩具
-http://192.168.50.1:8888/udp/239.93.46.18:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",亲子趣学4K
-http://192.168.50.1:8888/udp/239.93.7.191:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",津津悦读4K
-http://192.168.50.1:8888/udp/239.93.7.197:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",乐龄学堂
-http://192.168.50.1:8888/udp/239.93.7.179:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱怀旧
-http://192.168.50.1:8888/udp/239.93.46.21:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱喜剧
-http://192.168.50.1:8888/udp/239.93.46.9:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱奇谈
-http://192.168.50.1:8888/udp/239.93.46.22:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱科幻
-http://192.168.50.1:8888/udp/239.93.46.10:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱院线
-http://192.168.50.1:8888/udp/239.93.46.11:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱谍战
-http://192.168.50.1:8888/udp/239.93.46.14:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱经典
-http://192.168.50.1:8888/udp/239.93.46.13:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱悬疑
-http://192.168.50.1:8888/udp/239.93.46.12:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱青春
-http://192.168.50.1:8888/udp/239.93.46.16:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱都市
-http://192.168.50.1:8888/udp/239.93.46.15:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱幼教
-http://192.168.50.1:8888/udp/239.93.46.17:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱玩具
-http://192.168.50.1:8888/udp/239.93.46.18:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱动漫
-http://192.168.50.1:8888/udp/239.93.46.23:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱电竞
-http://192.168.50.1:8888/udp/239.93.46.19:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱赛车
-http://192.168.50.1:8888/udp/239.93.46.20:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视台",CCTV-1杜比世界
 http://192.168.50.1:8888/udp/239.93.6.69:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视台",CCTV-1
@@ -117,18 +49,14 @@ http://192.168.50.1:8888/udp/239.93.7.102:5140
 http://192.168.50.1:8888/udp/239.93.6.47:5140
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="卫视台",SCTV-5
 http://192.168.50.1:8888/udp/239.93.6.166:5140
-#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="卫视台",SCTV-6
+#EXTINF:-1 tvg-id="2059" tvg-name="SCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv6.png" group-title="卫视台",SCTV-6
 http://192.168.50.1:8888/udp/239.93.7.144:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",SCTV-7
+#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="卫视台",SCTV-7
 http://192.168.50.1:8888/udp/239.93.6.219:5140
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="卫视台",SCTV-8
 http://192.168.50.1:8888/udp/239.93.46.44:5140
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视台",康巴卫视
 http://192.168.50.1:8888/udp/239.93.6.41:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",公共·乡村
-http://192.168.50.1:8888/udp/239.93.6.52:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",峨眉电影
-http://192.168.50.1:8888/udp/239.93.6.252:5140
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视台",湖南卫视
 http://192.168.50.1:8888/udp/239.93.6.88:5140
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视台",江苏卫视
@@ -165,36 +93,12 @@ http://192.168.50.1:8888/udp/239.93.6.132:5140
 http://192.168.50.1:8888/udp/239.93.46.45:5140
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视台",广西卫视
 http://192.168.50.1:8888/udp/239.93.46.46:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",熊猫新闻
-http://192.168.50.1:8888/udp/239.93.7.112:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",熊猫影院
-http://192.168.50.1:8888/udp/239.93.6.214:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",星空精选
-http://192.168.50.1:8888/udp/239.93.6.171:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",熊猫爱生活
-http://192.168.50.1:8888/udp/239.93.7.190:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",金熊猫卡通
-http://192.168.50.1:8888/udp/239.93.6.172:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",熊猫少儿
-http://192.168.50.1:8888/udp/239.93.7.189:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",熊猫体娱
-http://192.168.50.1:8888/udp/239.93.6.94:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",睛彩四川
-http://192.168.50.1:8888/udp/239.93.6.126:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",收视导视
-http://192.168.50.1:8888/udp/239.93.6.213:5140
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="卫视台",大爱四川
 http://192.168.50.1:8888/udp/239.93.7.110:5140
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视台",上海纪实
 http://192.168.50.1:8888/udp/239.93.6.137:5140
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视台",金鹰纪实
 http://192.168.50.1:8888/udp/239.93.6.130:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",东方财经
-http://192.168.50.1:8888/udp/239.93.7.165:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",CETV-1
-http://192.168.50.1:8888/udp/239.93.7.111:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",CETV-4
-http://192.168.50.1:8888/udp/239.93.6.133:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="卫视台",CGTN
 http://192.168.50.1:8888/udp/239.93.46.49:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="卫视台",CGTN西班牙
@@ -203,43 +107,143 @@ http://192.168.50.1:8888/udp/239.93.46.49:5140
 http://192.168.50.1:8888/udp/239.93.6.104:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="卫视台",CGTN法语
 http://192.168.50.1:8888/udp/239.93.46.50:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",HD看电影
-http://192.168.50.1:8888/udp/239.93.46.47:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",都市剧场
-http://192.168.50.1:8888/udp/239.93.46.30:5140
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="卫视台",求索记录
 http://192.168.50.1:8888/udp/239.93.46.24:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",爱宠宠物
-http://192.168.50.1:8888/udp/239.93.46.32:5140
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="卫视台",生活时尚
 http://192.168.50.1:8888/udp/239.93.46.29:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",来钓鱼吧
-http://192.168.50.1:8888/udp/239.93.46.8:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",麻辣体育
-http://192.168.50.1:8888/udp/239.93.46.2:5140
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="卫视台",快乐垂钓
 http://192.168.50.1:8888/udp/239.93.7.151:5140
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="卫视台",茶频道
 http://192.168.50.1:8888/udp/239.93.6.114:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",热血剧场
-http://192.168.50.1:8888/udp/239.93.7.198:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",乐龄学堂
-http://192.168.50.1:8888/udp/239.93.7.179:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",动画番剧
-http://192.168.50.1:8888/udp/239.93.7.177:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",熊猫24小时
-http://192.168.50.1:8888/udp/239.93.7.178:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",综艺咖秀
-http://192.168.50.1:8888/udp/239.93.7.175:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",红色经典
-http://192.168.50.1:8888/udp/239.93.7.176:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",4K超高清电影
-http://192.168.50.1:8888/udp/239.93.7.156:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",4K乐享超清
-http://192.168.50.1:8888/udp/239.93.6.43:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",中录动漫4K
-http://192.168.50.1:8888/udp/239.93.7.188:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",亲子趣学4K
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV奥林匹克4K
+http://192.168.50.1:8888/udp/239.93.46.54:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",爱上4K
+http://192.168.50.1:8888/udp/239.93.6.97:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",Best 4K
+http://192.168.50.1:8888/udp/239.93.6.16:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",绚影4K
+http://192.168.50.1:8888/udp/239.93.46.33:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",亲子趣学4K
 http://192.168.50.1:8888/udp/239.93.7.191:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视台",津津悦读4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",津津悦读4K
+http://192.168.50.1:8888/udp/239.93.7.197:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",中录动漫4K
+http://192.168.50.1:8888/udp/239.93.7.188:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",4K超高清电影
+http://192.168.50.1:8888/udp/239.93.7.156:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",4K乐享超清
+http://192.168.50.1:8888/udp/239.93.6.43:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",4K乐享超清
+http://192.168.50.1:8888/udp/239.93.6.43:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",中央少儿
+http://192.168.50.1:8888/udp/239.93.7.29:6000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",熊猫少儿
+http://192.168.50.1:8888/udp/239.93.7.189:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",熊猫卡通
+http://192.168.50.1:8888/udp/239.93.6.172:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",少儿天地
+http://192.168.50.1:8888/udp/239.93.46.34:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",爱幼教
+http://192.168.50.1:8888/udp/239.93.46.17:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",爱玩具
+http://192.168.50.1:8888/udp/239.93.46.18:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",亲子趣学4K
+http://192.168.50.1:8888/udp/239.93.7.191:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",津津悦读4K
+http://192.168.50.1:8888/udp/239.93.7.197:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",乐龄学堂
+http://192.168.50.1:8888/udp/239.93.7.179:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱怀旧
+http://192.168.50.1:8888/udp/239.93.46.21:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱喜剧
+http://192.168.50.1:8888/udp/239.93.46.9:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱奇谈
+http://192.168.50.1:8888/udp/239.93.46.22:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱科幻
+http://192.168.50.1:8888/udp/239.93.46.10:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱院线
+http://192.168.50.1:8888/udp/239.93.46.11:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱谍战
+http://192.168.50.1:8888/udp/239.93.46.14:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱经典
+http://192.168.50.1:8888/udp/239.93.46.13:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱悬疑
+http://192.168.50.1:8888/udp/239.93.46.12:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱青春
+http://192.168.50.1:8888/udp/239.93.46.16:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱都市
+http://192.168.50.1:8888/udp/239.93.46.15:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱幼教
+http://192.168.50.1:8888/udp/239.93.46.17:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱玩具
+http://192.168.50.1:8888/udp/239.93.46.18:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱动漫
+http://192.168.50.1:8888/udp/239.93.46.23:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱电竞
+http://192.168.50.1:8888/udp/239.93.46.19:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="iHOT",爱赛车
+http://192.168.50.1:8888/udp/239.93.46.20:5140
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",公共·乡村
+http://192.168.50.1:8888/udp/239.93.6.52:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",峨眉电影
+http://192.168.50.1:8888/udp/239.93.6.252:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",HD看电影
+http://192.168.50.1:8888/udp/239.93.46.47:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫新闻
+http://192.168.50.1:8888/udp/239.93.7.112:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫影院
+http://192.168.50.1:8888/udp/239.93.6.214:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星空精选
+http://192.168.50.1:8888/udp/239.93.6.171:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫爱生活
+http://192.168.50.1:8888/udp/239.93.7.190:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金熊猫卡通
+http://192.168.50.1:8888/udp/239.93.6.172:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫少儿
+http://192.168.50.1:8888/udp/239.93.7.189:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫体娱
+http://192.168.50.1:8888/udp/239.93.6.94:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",睛彩四川
+http://192.168.50.1:8888/udp/239.93.6.126:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",收视导视
+http://192.168.50.1:8888/udp/239.93.6.213:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经
+http://192.168.50.1:8888/udp/239.93.7.165:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-1
+http://192.168.50.1:8888/udp/239.93.7.111:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-4
+http://192.168.50.1:8888/udp/239.93.6.133:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
+http://192.168.50.1:8888/udp/239.93.46.30:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱宠宠物
+http://192.168.50.1:8888/udp/239.93.46.32:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来钓鱼吧
+http://192.168.50.1:8888/udp/239.93.46.8:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",麻辣体育
+http://192.168.50.1:8888/udp/239.93.46.2:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",热血剧场
+http://192.168.50.1:8888/udp/239.93.7.198:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐龄学堂
+http://192.168.50.1:8888/udp/239.93.7.179:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动画番剧
+http://192.168.50.1:8888/udp/239.93.7.177:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",熊猫24小时
+http://192.168.50.1:8888/udp/239.93.7.178:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",综艺咖秀
+http://192.168.50.1:8888/udp/239.93.7.175:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",红色经典
+http://192.168.50.1:8888/udp/239.93.7.176:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4K超高清电影
+http://192.168.50.1:8888/udp/239.93.7.156:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4K乐享超清
+http://192.168.50.1:8888/udp/239.93.6.43:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中录动漫4K
+http://192.168.50.1:8888/udp/239.93.7.188:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",亲子趣学4K
+http://192.168.50.1:8888/udp/239.93.7.191:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",津津悦读4K
 http://192.168.50.1:8888/udp/239.93.7.197:5140
