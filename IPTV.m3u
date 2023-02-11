@@ -134,8 +134,6 @@ http://192.168.50.1:8888/udp/239.93.7.188:5140
 http://192.168.50.1:8888/udp/239.93.7.156:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",4K乐享超清
 http://192.168.50.1:8888/udp/239.93.6.43:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K频道",4K乐享超清
-http://192.168.50.1:8888/udp/239.93.6.43:5140
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="少儿频道",中央少儿
 http://192.168.50.1:8888/udp/239.93.7.29:6000
